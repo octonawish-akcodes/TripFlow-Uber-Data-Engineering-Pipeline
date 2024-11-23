@@ -1,4 +1,4 @@
-# Uber Data Analytics on GCP
+# TripFlow: Uber Data Engineering Pipeline
 
 This project aims to analyze Uber trip data by leveraging Google Cloud Platform (GCP) and modern data engineering tools. The pipeline processes and transforms data to gain insights into taxi trip patterns, fares, and other key metrics using tools like BigQuery, Looker Studio, and Mage Data Pipeline Tool.
 
